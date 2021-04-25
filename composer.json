@@ -1,6 +1,6 @@
 {
-    "name": "getkirby/plainkit",
-    "description": "Kirby Plainkit",
+    "name": "maxxst/tailbladekit",
+    "description": "Kirby Tailbladekit",
     "type": "project",
     "keywords": ["kirby", "cms", "starterkit"],
     "homepage": "https://getkirby.com",
