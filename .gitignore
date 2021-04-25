@@ -21,9 +21,15 @@ Icon
 /.vscode
 /.idea
 
+# Folders handled by composer
+# ---------------
+/kirby
+/vendor
+
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
+
 
 # Cache Files
 # ---------------
